@@ -7,5 +7,5 @@ WHERE subject in (
   );
 
 DELETE
-from subjects
-where name == "History";
+FROM subjects
+WHERE name == "History";
